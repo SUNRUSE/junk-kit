@@ -1,4 +1,4 @@
-# junk-kit [![Travis](https://img.shields.io/travis/sunruse/junk-kit.svg)](https://travis-ci.org/sunruse/junk-kit) [![License](https://img.shields.io/github/license/sunruse/junk-kit.svg)](https://github.com/sunruse/junk-kit/blob/master/license) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunruse%2Fjunk-kit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunruse%2Fjunk-kit?ref=badge_shield) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# junk-kit [![Travis](https://img.shields.io/travis/SUNRUSE/junk-kit.svg)](https://travis-ci.org/SUNRUSE/junk-kit) [![License](https://img.shields.io/github/license/SUNRUSE/junk-kit.svg)](https://github.com/SUNRUSE/junk-kit/blob/master/license) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSUNRUSE%2Fjunk-kit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSUNRUSE%2Fjunk-kit?ref=badge_shield) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 This repository is intended to be a "one-stop shop" for building a subset of
 types of [Js13kGames](https://js13kgames.com/) entries.  It features:
@@ -27,9 +27,9 @@ See an [example game](src/games/basic-tower-of-hanoi/src)!
   heart's content.  To do this, click `Fork` in the top right corner of this
   repository's page on GitHub.
 
-- Change all references to `sunruse/junk-kit` (links in this file,
+- Change all references to `SUNRUSE/junk-kit` (links in this file,
   `package.json`, license, etc.) to point to your fork; noting that some of
-  these will be URL-encoded, i.e. `sunruse%2Fjunk-kit`.
+  these will be URL-encoded, i.e. `SUNRUSE%2Fjunk-kit`.
 
 ### Development
 
@@ -85,7 +85,7 @@ your fork, and the zipped games uploaded as GitHub releases.
 - Sign into [Travis CI](https://travis-ci.org/) with GitHub.
 - Click on the slide toggle next to `junk-kit`.
 - Update all Travis CI links in this file to point to your fork (change
-  `sunruse` to your GitHub name).
+  `SUNRUSE` to your GitHub name).
 
 ##### Travis CI to GitHub releases
 
@@ -127,7 +127,7 @@ licenses do not conflict or present unexpected obligations.
 - Tick `junk-kit`.
 - Click `Import 1`.
 - Update all FOSSA links in this file to point to your fork (change
-  `sunruse` to your GitHub name).
+  `SUNRUSE` to your GitHub name).
 
 ## File structure
 
@@ -818,4 +818,4 @@ To do this, call `getNomNoml` on the result of `plan`.
 
 ## License
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunruse%2Fjunk-kit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunruse%2Fjunk-kit?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSUNRUSE%2Fjunk-kit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSUNRUSE%2Fjunk-kit?ref=badge_large)
