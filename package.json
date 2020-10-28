@@ -12,7 +12,7 @@
     "ci": "ts-node --project src/pipeline/tsconfig.json src/pipeline/ci"
   },
   "dependencies": {
-    "@types/archiver": "3.1.0",
+    "@types/archiver": "3.1.1",
     "@types/bl": "2.1.0",
     "@types/express": "4.17.3",
     "@types/html-minifier": "3.5.3",
