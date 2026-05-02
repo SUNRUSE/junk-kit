@@ -38,7 +38,7 @@
     "ts-node": "8.6.2",
     "typescript": "3.8.3",
     "uglify-js": "3.7.7",
-    "uuid": "3.4.0"
+    "uuid": "14.0.0"
   },
   "devDependencies": {}
 }
